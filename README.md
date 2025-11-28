@@ -39,7 +39,15 @@ In-depth tutorials for advanced implementations:
 ## Quick Start
 
 1. **Browse the [documentation](https://docs.perplexity.ai/cookbook)** to find examples that match your needs
-2. **Clone this repository** and navigate to any example directory
+2. **Clone this repository** and navigate to any example directory:
+   ```bash
+   $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+   > Cloning into `Spoon-Knife`...
+   > remote: Counting objects: 10, done.
+   > remote: Compressing objects: 100% (8/8), done.
+   > remote: Total 10 (delta 1), reused 10 (delta 1)
+   > Unpacking objects: 100% (10/10), done.
+   ```
 3. **Follow the setup instructions** in each example's README
 4. **Get your API key** from [Perplexity](https://docs.perplexity.ai/guides/getting-started)
 5. **Build and customize** for your specific use case

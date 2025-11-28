@@ -41,8 +41,8 @@ In-depth tutorials for advanced implementations:
 1. **Browse the [documentation](https://docs.perplexity.ai/cookbook)** to find examples that match your needs
 2. **Clone this repository** and navigate to any example directory:
    ```bash
-   $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-   > Cloning into `Spoon-Knife`...
+   $ git clone https://github.com/perplexityai/api-cookbook
+   > Cloning into `api-cookbook`...
    > remote: Counting objects: 10, done.
    > remote: Compressing objects: 100% (8/8), done.
    > remote: Total 10 (delta 1), reused 10 (delta 1)

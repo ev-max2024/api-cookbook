@@ -1,0 +1,97 @@
+---
+title: Articles Overview
+description: In-depth integration guides and advanced implementation tutorials for the Perplexity Sonar API
+sidebar_position: 0
+keywords: [articles, guides, tutorials, integration, advanced, sonar-api]
+---
+
+# Articles Overview
+
+Welcome to the **Perplexity Sonar API Articles** collection! These are in-depth guides and tutorials that cover advanced implementation patterns and integrations with other tools and frameworks.
+
+## 📚 Available Articles
+
+### 🧠 [Memory Management](memory-management/)
+
+**Purpose**: Advanced solutions for preserving conversational memory in LLM applications  
+**Focus**: Context window management and long-term memory persistence
+
+**Topics Covered**:
+- **Chat Summary Memory Buffer** - Summarize older messages to fit within token limits while retaining key context
+- **Persistent Memory with LanceDB** - Enable long-term memory persistence across sessions using vector embeddings
+
+**Key Benefits**:
+- 43% reduction in token usage through summarization
+- 92% context retention across sessions
+- Production-ready scalable architectures
+
+**Quick Start**:
+```bash
+cd memory-management/chat-summary-memory-buffer/
+python chat_summary_memory.py
+```
+
+---
+
+### 🤖 [OpenAI Agents Integration](openai-agents-integration/)
+
+**Purpose**: Complete guide for integrating Perplexity's Sonar API with the OpenAI Agents SDK  
+**Focus**: Agent creation, function calling, and real-time information retrieval
+
+**Topics Covered**:
+- Custom async OpenAI client configuration for Sonar API
+- Intelligent agents with function calling capabilities
+- Production-ready integration patterns
+- Streaming responses and context management
+
+**Key Benefits**:
+- Leverage Sonar's search capabilities for grounded responses
+- Use OpenAI's agent framework for structured interactions
+- Combine both for powerful, context-aware applications
+
+**Quick Start**:
+```bash
+export EXAMPLE_API_KEY="your-perplexity-api-key"
+python pplx_openai_agent.py
+```
+
+---
+
+## 🎯 Choosing the Right Article
+
+| **If you want to...** | **Use this article** |
+|------------------------|----------------------|
+| Manage conversation memory efficiently | **Memory Management** |
+| Build multi-turn conversational apps | **Memory Management** |
+| Integrate with OpenAI Agents SDK | **OpenAI Agents Integration** |
+| Add function calling to your agent | **OpenAI Agents Integration** |
+| Combine search with structured tools | **OpenAI Agents Integration** |
+
+## 🛠️ Common Requirements
+
+All articles require:
+- **Python 3.7+**
+- **Perplexity API Key** ([Get one here](https://docs.perplexity.ai/guides/getting-started))
+- **Internet connection** for API calls
+
+Additional requirements are listed in each article's setup instructions.
+
+## 🤝 Contributing
+
+Have an advanced integration or technique to share? We welcome article contributions!
+
+1. **Fork this repository**
+2. **Create a new directory** under `/docs/articles/your-article-name/`
+3. **Add your README.mdx** following the established structure
+4. **Include comprehensive code examples** with explanations
+5. **Submit a pull request**
+
+See our [Contributing Guidelines](https://github.com/perplexityai/api-cookbook/blob/main/CONTRIBUTING.md#for-articles) for detailed submission instructions.
+
+## 📄 License
+
+All articles are licensed under the [MIT License](https://github.com/perplexityai/api-cookbook/blob/main/LICENSE).
+
+---
+
+**Ready to dive deep?** Pick an article above and master advanced Sonar API integrations! 🚀

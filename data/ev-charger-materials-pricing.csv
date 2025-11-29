@@ -1,0 +1,136 @@
+Code,Category,Item,Unit,Unit Price,Source,Last Updated
+CONC-001,Concrete Work,Ready-Mix Concrete 2500 PSI,CY,176.00,Home Depot,2025-11-11
+CONC-002,Concrete Work,3/4" Rebar Grade 60 (20' lengths),LF,1.38,Home Depot,2025-11-11
+CONC-003,Concrete Work,Rebar Tie Wire 16 gauge (5 lb roll),EA,19.80,Home Depot,2025-11-11
+CONC-004,Concrete Work,Rebar Chairs 3" Height,EA,1.32,Home Depot,2025-11-11
+CONC-005,Concrete Work,Concrete Forms 2x8 Lumber,LF,3.08,Home Depot,2025-11-11
+CONC-006,Concrete Work,Form Stakes 2x2 (24"),EA,2.75,Home Depot,2025-11-11
+CONC-007,Concrete Work,Deco-Seal Concrete Sealer (5 gal),EA,46.20,Home Depot,2025-11-11
+CONC-008,Concrete Work,Concrete Paint Charcoal (Asphalt Match),EA,38.50,Home Depot,2025-11-11
+CONC-009,Concrete Work,Precast Concrete Pad for Utility Transformer,EA,1837.00,Supplier Quote,2025-11-11
+CONC-010,Concrete Work,Precast Concrete Pad for EV Charger,EA,660.00,Supplier Quote,2025-11-11
+CONC-011,Concrete Work,Retaining Wall Block 12"x8"x6" per EA,EA,5.34,Home Depot,2025-11-11
+CONC-012,Concrete Work,Retaining Wall Cap per LF,LF,9.35,Home Depot,2025-11-11
+CONC-013,Concrete Work,Retaining Wall Adhesive per Tube,EA,7.15,Home Depot,2025-11-11
+CONC-014,Concrete Work,Geotextile Fabric per SY,SY,2.04,Home Depot,2025-11-11
+CONC-015,Concrete Work,Drainage Gravel #57 Stone per Ton,TON,49.50,Supplier Quote,2025-11-11
+CONC-016,Concrete Work,Perforated Drain Pipe 4" per LF,LF,2.48,Home Depot,2025-11-11
+COND-001,Conduit & Fittings,3/4" PVC Sch40 Conduit 10',LF,0.23,Home Depot,2025-11-14
+COND-002,Conduit & Fittings,1" PVC Sch40 Conduit 10',LF,0.23,Home Depot,2025-11-14
+COND-003,Conduit & Fittings,1-1/2" PVC Sch40 Conduit,LF,0.29,Home Depot,2025-11-14
+COND-004,Conduit & Fittings,2" PVC Sch40 Conduit,LF,0.32,Home Depot,2025-11-14
+COND-005,Conduit & Fittings,2-1/2" PVC Sch40 Conduit,LF,0.57,Home Depot,2025-11-14
+COND-006,Conduit & Fittings,3" PVC Sch40 Conduit,LF,0.75,Manual Entry,2025-11-14
+COND-007,Conduit & Fittings,4" PVC Sch40 Conduit,LF,1.20,Manual Entry,2025-11-14
+COND-008,Conduit & Fittings,3/4" PVC 90° Elbow,EA,4.37,Home Depot,2025-11-11
+COND-009,Conduit & Fittings,1" PVC 90° Elbow,EA,4.37,Home Depot,2025-11-11
+COND-010,Conduit & Fittings,1-1/2" PVC 90° Elbow,EA,4.37,Home Depot,2025-11-11
+COND-011,Conduit & Fittings,2" PVC 90° Elbow,EA,11.00,Home Depot,2025-11-11
+COND-012,Conduit & Fittings,2-1/2" PVC 90° Elbow,EA,12.90,Home Depot,2025-11-11
+COND-013,Conduit & Fittings,3" PVC 90° Elbow,EA,18.00,Manual Entry,2025-11-11
+COND-014,Conduit & Fittings,2" PVC 45° Elbow,EA,4.70,Home Depot,2025-11-11
+COND-015,Conduit & Fittings,2-1/2" PVC 45° Elbow,EA,12.00,Home Depot,2025-11-11
+COND-016,Conduit & Fittings,PVC Coupling 3/4",EA,1.00,Home Depot,2025-11-11
+COND-017,Conduit & Fittings,PVC Coupling 1-1/2",EA,1.00,Home Depot,2025-11-11
+COND-018,Conduit & Fittings,PVC Coupling 2",EA,2.00,Home Depot,2025-11-11
+COND-019,Conduit & Fittings,PVC Coupling 2-1/2",EA,3.00,Home Depot,2025-11-11
+COND-020,Conduit & Fittings,PVC Male Adapter 2-1/2" with Ring,EA,3.00,Home Depot,2025-11-11
+COND-021,Conduit & Fittings,PVC Locknut 2-1/2",EA,2.00,Home Depot,2025-11-11
+COND-022,Conduit & Fittings,PVC Handhole Box 10",EA,35.00,Home Depot,2025-11-11
+COND-023,Conduit & Fittings,2-1/2" Rigid Steel Conduit,LF,4.00,Supplier Quote,2025-11-14
+COND-024,Conduit & Fittings,Rigid 90° Elbow 2-1/2",EA,45.00,Supplier Quote,2025-11-11
+COND-025,Conduit & Fittings,Rigid Nipples (assorted),EA,20.00,Home Depot,2025-11-11
+COND-026,Conduit & Fittings,1/2" PVC Sch40 Conduit,LF,0.18,Home Depot,2025-11-14
+COND-027,Conduit & Fittings,1/2" PVC Sch40 90° Elbow,EA,0.75,Home Depot,2025-11-11
+COND-028,Conduit & Fittings,1/2" PVC Sch40 45° Elbow,EA,0.65,Home Depot,2025-11-11
+COND-029,Conduit & Fittings,1/2" PVC Sch40 Coupling,EA,0.35,Home Depot,2025-11-11
+COND-030,Conduit & Fittings,1/2" PVC Sch40 Male Adapter,EA,0.85,Home Depot,2025-11-11
+COND-031,Conduit & Fittings,1/2" PVC Sch40 Bushing,EA,0.45,Home Depot,2025-11-11
+COND-032,Conduit & Fittings,3/4" PVC Sch40 45° Elbow,EA,0.85,Home Depot,2025-11-11
+COND-033,Conduit & Fittings,3/4" PVC Sch40 Male Adapter,EA,1.00,Home Depot,2025-11-11
+COND-034,Conduit & Fittings,3/4" PVC Sch40 Bushing,EA,0.55,Home Depot,2025-11-11
+COND-035,Conduit & Fittings,1" PVC Sch40 45° Elbow,EA,1.15,Home Depot,2025-11-11
+COND-036,Conduit & Fittings,1" PVC Sch40 Coupling,EA,1.00,Home Depot,2025-11-11
+COND-037,Conduit & Fittings,1" PVC Sch40 Male Adapter,EA,1.25,Home Depot,2025-11-11
+COND-038,Conduit & Fittings,1" PVC Sch40 Bushing,EA,0.75,Home Depot,2025-11-11
+COND-039,Conduit & Fittings,1-1/2" PVC Sch40 45° Elbow,EA,1.45,Home Depot,2025-11-11
+COND-040,Conduit & Fittings,1-1/2" PVC Sch40 Male Adapter,EA,1.50,Home Depot,2025-11-11
+COND-041,Conduit & Fittings,1-1/2" PVC Sch40 Bushing,EA,0.95,Home Depot,2025-11-11
+COND-042,Conduit & Fittings,2" PVC Sch40 Male Adapter,EA,2.25,Home Depot,2025-11-11
+COND-043,Conduit & Fittings,2" PVC Sch40 Bushing,EA,1.15,Home Depot,2025-11-11
+COND-044,Conduit & Fittings,2-1/2" PVC Sch40 Male Adapter,EA,2.85,Home Depot,2025-11-11
+COND-045,Conduit & Fittings,2-1/2" PVC Sch40 Bushing,EA,1.45,Home Depot,2025-11-11
+COND-046,Conduit & Fittings,3" PVC Sch40 90° Elbow,EA,18.00,Manual Entry,2025-11-11
+COND-047,Conduit & Fittings,3" PVC Sch40 45° Elbow,EA,15.00,Manual Entry,2025-11-11
+COND-048,Conduit & Fittings,3" PVC Sch40 Coupling,EA,4.50,Manual Entry,2025-11-11
+COND-049,Conduit & Fittings,3" PVC Sch40 Male Adapter,EA,5.25,Manual Entry,2025-11-11
+COND-050,Conduit & Fittings,3" PVC Sch40 Bushing,EA,2.15,Manual Entry,2025-11-11
+COND-051,Conduit & Fittings,4" PVC Sch40 90° Elbow,EA,28.00,Manual Entry,2025-11-11
+COND-052,Conduit & Fittings,4" PVC Sch40 45° Elbow,EA,24.00,Manual Entry,2025-11-11
+COND-053,Conduit & Fittings,4" PVC Sch40 Coupling,EA,6.50,Manual Entry,2025-11-11
+COND-054,Conduit & Fittings,4" PVC Sch40 Male Adapter,EA,7.50,Manual Entry,2025-11-11
+COND-055,Conduit & Fittings,4" PVC Sch40 Bushing,EA,3.25,Manual Entry,2025-11-11
+COND-056,Conduit & Fittings,1/2" EMT Conduit,LF,0.33,Home Depot,2025-11-14
+COND-057,Conduit & Fittings,3/4" EMT Conduit,LF,0.42,Home Depot,2025-11-14
+COND-058,Conduit & Fittings,1" EMT Conduit,LF,0.63,Home Depot,2025-11-14
+COND-059,Conduit & Fittings,1-1/4" EMT Conduit,LF,0.88,Home Depot,2025-11-14
+COND-060,Conduit & Fittings,1-1/2" EMT Conduit,LF,1.05,Home Depot,2025-11-14
+COND-061,Conduit & Fittings,2" EMT Conduit,LF,1.49,Home Depot,2025-11-14
+COND-062,Conduit & Fittings,2-1/2" EMT Conduit,LF,2.50,Home Depot,2025-11-14
+COND-063,Conduit & Fittings,3" EMT Conduit,LF,3.50,Home Depot,2025-11-14
+COND-064,Conduit & Fittings,4" EMT Conduit,LF,5.80,Home Depot,2025-11-14
+COND-065,Conduit & Fittings,1/2" EMT 90° Elbow,EA,2.15,Home Depot,2025-11-11
+COND-066,Conduit & Fittings,3/4" EMT 90° Elbow,EA,2.85,Home Depot,2025-11-11
+COND-067,Conduit & Fittings,1" EMT 90° Elbow,EA,4.25,Home Depot,2025-11-11
+COND-068,Conduit & Fittings,1-1/2" EMT 90° Elbow,EA,8.50,Home Depot,2025-11-11
+COND-069,Conduit & Fittings,2" EMT 90° Elbow,EA,12.75,Home Depot,2025-11-11
+COND-070,Conduit & Fittings,1/2" EMT 45° Elbow,EA,1.85,Home Depot,2025-11-11
+COND-071,Conduit & Fittings,3/4" EMT 45° Elbow,EA,2.35,Home Depot,2025-11-11
+COND-072,Conduit & Fittings,1" EMT 45° Elbow,EA,3.50,Home Depot,2025-11-11
+COND-073,Conduit & Fittings,1/2" EMT Coupling,EA,0.85,Home Depot,2025-11-11
+COND-074,Conduit & Fittings,3/4" EMT Coupling,EA,1.15,Home Depot,2025-11-11
+COND-075,Conduit & Fittings,1" EMT Coupling,EA,1.65,Home Depot,2025-11-11
+COND-076,Conduit & Fittings,1-1/2" EMT Coupling,EA,2.25,Home Depot,2025-11-11
+COND-077,Conduit & Fittings,2" EMT Coupling,EA,3.50,Home Depot,2025-11-11
+COND-078,Conduit & Fittings,1/2" EMT Connector,EA,0.65,Home Depot,2025-11-11
+COND-079,Conduit & Fittings,3/4" EMT Connector,EA,0.85,Home Depot,2025-11-11
+COND-080,Conduit & Fittings,1" EMT Connector,EA,1.25,Home Depot,2025-11-11
+COND-081,Conduit & Fittings,1-1/2" EMT Connector,EA,2.15,Home Depot,2025-11-11
+COND-082,Conduit & Fittings,2" EMT Connector,EA,3.25,Home Depot,2025-11-11
+COND-083,Conduit & Fittings,1/2" Flex Conduit (per foot),LF,0.45,Home Depot,2025-11-11
+COND-084,Conduit & Fittings,3/4" Flex Conduit (per foot),LF,0.65,Home Depot,2025-11-11
+COND-085,Conduit & Fittings,1" Flex Conduit (per foot),LF,0.95,Home Depot,2025-11-11
+COND-086,Conduit & Fittings,1-1/4" Flex Conduit (per foot),LF,1.35,Home Depot,2025-11-11
+COND-087,Conduit & Fittings,1-1/2" Flex Conduit (per foot),LF,1.65,Home Depot,2025-11-11
+COND-088,Conduit & Fittings,2" Flex Conduit (per foot),LF,2.25,Home Depot,2025-11-11
+COND-089,Conduit & Fittings,1/2" Flex Connector Straight,EA,1.85,Home Depot,2025-11-11
+COND-090,Conduit & Fittings,3/4" Flex Connector Straight,EA,2.25,Home Depot,2025-11-11
+COND-091,Conduit & Fittings,1" Flex Connector Straight,EA,2.85,Home Depot,2025-11-11
+COND-092,Conduit & Fittings,1-1/2" Flex Connector Straight,EA,4.50,Home Depot,2025-11-11
+COND-093,Conduit & Fittings,2" Flex Connector Straight,EA,6.25,Home Depot,2025-11-11
+COND-094,Conduit & Fittings,1/2" Flex Connector 90°,EA,2.65,Home Depot,2025-11-11
+COND-095,Conduit & Fittings,3/4" Flex Connector 90°,EA,3.25,Home Depot,2025-11-11
+COND-096,Conduit & Fittings,1" Flex Connector 90°,EA,4.15,Home Depot,2025-11-11
+COND-097,Conduit & Fittings,1/2" Liquidtight Flex (Superflex) per foot,LF,0.85,Home Depot,2025-11-11
+COND-098,Conduit & Fittings,3/4" Liquidtight Flex (Superflex) per foot,LF,1.15,Home Depot,2025-11-11
+COND-099,Conduit & Fittings,1" Liquidtight Flex (Superflex) per foot,LF,1.55,Home Depot,2025-11-11
+COND-100,Conduit & Fittings,1-1/4" Liquidtight Flex (Superflex) per foot,LF,2.15,Home Depot,2025-11-11
+COND-101,Conduit & Fittings,1-1/2" Liquidtight Flex (Superflex) per foot,LF,2.65,Home Depot,2025-11-11
+COND-102,Conduit & Fittings,2" Liquidtight Flex (Superflex) per foot,LF,3.45,Home Depot,2025-11-11
+COND-103,Conduit & Fittings,1/2" Liquidtight Connector Straight,EA,2.35,Home Depot,2025-11-11
+COND-104,Conduit & Fittings,3/4" Liquidtight Connector Straight,EA,2.85,Home Depot,2025-11-11
+COND-105,Conduit & Fittings,1" Liquidtight Connector Straight,EA,3.65,Home Depot,2025-11-11
+COND-106,Conduit & Fittings,1-1/2" Liquidtight Connector Straight,EA,5.25,Home Depot,2025-11-11
+COND-107,Conduit & Fittings,2" Liquidtight Connector Straight,EA,7.50,Home Depot,2025-11-11
+COND-108,Conduit & Fittings,1/2" Liquidtight Connector 90°,EA,3.25,Home Depot,2025-11-11
+COND-109,Conduit & Fittings,3/4" Liquidtight Connector 90°,EA,4.15,Home Depot,2025-11-11
+COND-110,Conduit & Fittings,1" Liquidtight Connector 90°,EA,5.25,Home Depot,2025-11-11
+COND-111,Conduit & Fittings,1/2" Rigid Steel Conduit,LF,1.80,Supplier Quote,2025-11-14
+COND-112,Conduit & Fittings,3/4" Rigid Steel Conduit,LF,2.20,Supplier Quote,2025-11-14
+COND-113,Conduit & Fittings,1" Rigid Steel Conduit,LF,2.80,Supplier Quote,2025-11-14
+COND-114,Conduit & Fittings,1-1/4" Rigid Steel Conduit,LF,3.20,Supplier Quote,2025-11-14
+COND-115,Conduit & Fittings,1-1/2" Rigid Steel Conduit,LF,3.50,Supplier Quote,2025-11-14
+COND-116,Conduit & Fittings,2" Rigid Steel Conduit,LF,3.80,Supplier Quote,2025-11-14
+COND-117,Conduit & Fittings,3" Rigid Steel Conduit,LF,5.50,Supplier Quote,2025-11-14
+COND-118,Conduit & Fittings,4" Rigid Steel Conduit,LF,7.50,Supplier Quote,2025-11-14
+COND-119,Conduit & Fittings,1/2" Rigid 90° Elbow,EA,12.00,Supplier Quote,2025-11-11

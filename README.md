@@ -11,6 +11,7 @@ Ready-to-run applications demonstrating real-world use cases:
 - **[Daily Knowledge Bot](docs/examples/daily-knowledge-bot/)** - Automated daily fact delivery system  
 - **[Disease Information App](docs/examples/disease-qa/)** - Interactive medical information lookup
 - **[Financial News Tracker](docs/examples/financial-news-tracker/)** - Real-time market analysis
+- **[Equity Research Brief](docs/examples/equity-research-brief/)** - Agent API + `finance_search` for ticker-level research briefs
 - **[Academic Research Finder](docs/examples/research-finder/)** - Literature discovery and summarization
 - **[Discord Bot](docs/examples/discord-py-bot/)** - Discord integration example
 
